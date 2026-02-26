@@ -24,7 +24,7 @@ narrative-ai --text "Your story here" --full
 ![CLI Demo](assets/Shot2.png)
 
 
-AI Story & Script Evaluator
+AI Sample Output
 ---------------------------------------
 File analyzed: script.txt
 

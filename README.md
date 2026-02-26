@@ -22,11 +22,11 @@ narrative-ai --text "Your story here" --full
 
 Example Output;
 <p align="center">
-  <img src="assets/Shot1.png" width="900">
+  <img src="assets/Shot1.png">
 </p>
 
 <p align="center">
-  <img src="assets/Shot2.png" width="900">
+  <img src="assets/shot2.png">
 </p>
 
 

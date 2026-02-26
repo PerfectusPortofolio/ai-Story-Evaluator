@@ -22,6 +22,10 @@ narrative-ai --text "Your story here" --full
 
 Example Output;
 
+(assets/Shot1.png)
+
+(assets/shot2.png)
+
 AI Story & Script Evaluator
 ---------------------------------------
 File analyzed: script.txt

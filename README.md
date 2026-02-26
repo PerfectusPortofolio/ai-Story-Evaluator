@@ -20,14 +20,8 @@ narrative-ai --text "Your story here" --full
 
 
 
-Example Output;
-<p align="center">
-  <img src="assets/Shot1.png">
-</p>
-
-<p align="center">
-  <img src="assets/shot2.png">
-</p>
+![CLI Demo](assets/Shot1.png)
+![CLI Demo](assets/Shot2.png)
 
 
 AI Story & Script Evaluator

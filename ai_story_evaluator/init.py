@@ -1,1 +1,0 @@
-# Narrative AI CLI package

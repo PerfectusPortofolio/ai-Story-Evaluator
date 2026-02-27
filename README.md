@@ -64,3 +64,11 @@ Suggestions
 Note: The example output above demonstrates how the tool evaluates scripts.
 Actual results require an API key configured locally.
 No API keys are included in this repository.
+
+
+
+## Articles & Research
+
+How AI Actually Understands Stories  
+Evaluating AI Responses in Large Language Models  
+Prompt Engineering for AI Evaluation.

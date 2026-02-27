@@ -1,4 +1,9 @@
-Narrative AI CLI
+#Narrative AI CLI
+
+![Python](https://img.shields.io/badge/python-3.9%2B-blue)
+![CLI Tool](https://img.shields.io/badge/interface-CLI-black)
+![AI Powered](https://img.shields.io/badge/AI-LLM%20analysis-purple)
+![License](https://img.shields.io/badge/license-MIT-green)
 
 A Python command line tool that analyzes storytelling structure, tone, humor, and creativity using AI.
 

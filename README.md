@@ -26,7 +26,7 @@ narrative-ai --text "Your story here" --full
 
 
 ![CLI Demo](assets/Shot1.png)
-![CLI Demo](assets/Shot2.png)
+![CLI Demo](assets/shot2.png)
 
 
 AI Sample Output
